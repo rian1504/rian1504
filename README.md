@@ -2,7 +2,7 @@
   
 # Hi there, I'm Rian Abdullah! 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Backend+Developer;Laravel+Enthusiast;Building+Scalable+Web+Apps;Open+Source+Contributor)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Backend+Developer;Laravel+Enthusiast;Flutter+Developer;Building+Scalable+Web+%26+Mobile+Apps)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=rian1504&label=Profile%20views&color=6366f1&style=for-the-badge" alt="Profile Views" />
 
@@ -14,19 +14,19 @@
 
 ```javascript
 const rian = {
-    pronouns: "He" | "Him",
-    role: "Backend Developer",
-    location: "Indonesia 🇮🇩",
-    status: ["Student", "Freelancer"],
-    currentFocus: "Building robust web applications with Laravel",
-    funFact: "I love playing badminton 🏸 when I'm not coding!"
+  pronouns: "He" | "Him",
+  role: "Backend Developer",
+  location: "Indonesia 🇮🇩",
+  status: ["Student", "Freelancer"],
+  currentFocus: "Building robust web & mobile applications",
+  funFact: "I love playing badminton 🏸 when I'm not coding!",
 };
 ```
 
 - 🎓 Currently a **Student** while also working as a **Freelancer**
 - 🔭 I'm passionate about creating **scalable backend systems**
 - 🌱 Always learning and improving my skills
-- 💬 Ask me about **Laravel, PHP, API Development, Database Design**
+- 💬 Ask me about **Laravel, PHP, Flutter, API Development, Database Design**
 - ⚡ Fun fact: When I'm not coding, you'll find me on the badminton court! 🏸
 
 ---
@@ -35,22 +35,34 @@ const rian = {
 
 <div align="center">
 
-### Backend & Framework
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+### Languages
+
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Frameworks & Libraries
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Blade](https://img.shields.io/badge/Blade-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Database
+
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Tools & Technologies
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-### Deployment
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
 
@@ -58,28 +70,62 @@ const rian = {
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
-[![InternFolio](https://github-readme-stats.vercel.app/api/pin/?username=rian1504&repo=InternFolio&theme=tokyonight&hide_border=true)](https://github.com/rian1504/InternFolio)
-[![Nutrimpasi-Web](https://github-readme-stats.vercel.app/api/pin/?username=rian1504&repo=Nutrimpasi-Web&theme=tokyonight&hide_border=true)](https://github.com/rian1504/Nutrimpasi-Web)
-
-</div>
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <h3>🎓 InternFolio</h3>
+      <p>An internship portfolio management system built with Laravel</p>
+      <p>
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+        <img src="https://img.shields.io/badge/Blade-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+      </p>
+      <a href="https://github.com/rian1504/InternFolio">
+        <img src="https://img.shields.io/badge/View_Repository-6366f1?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <h3>🍼 NutriMPASI-Web</h3>
+      <p>A web application for baby complementary food nutrition management</p>
+      <p>
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      </p>
+      <a href="https://github.com/rian1504/NutriMPASI-Web">
+        <img src="https://img.shields.io/badge/View_Repository-6366f1?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <h3>🚗 ParkQuest - Parkir Gamifikasi Mobile</h3>
+      <p>A gamified mobile parking application built with Flutter</p>
+      <p>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+      </p>
+      <a href="https://github.com/rian1504/ParkQuest-Parkir-Gamifikasi-Mobile">
+        <img src="https://img.shields.io/badge/View_Repository-6366f1?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=rian1504&show_icons=true&count_private=true&hide_border=true&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9&bg_color=0d1117" alt="Rian Abdullah GitHub Stats" /> 
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rian1504&layout=compact&hide_border=true&title_color=6366f1&text_color=c9d1d9&bg_color=0d1117" alt="Most Used Languages" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=rian1504&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9" height="180" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rian1504&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1&text_color=c9d1d9" height="180" alt="Most Used Languages"/>
 </div>
 
-<div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rian1504&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366f1&ring=6366f1&fire=6366f1&currStreakLabel=6366f1)](https://git.io/streak-stats)
+<br/>
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=rian1504&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366f1&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -87,9 +133,7 @@ const rian = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=rian1504&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
+  <img src="https://github-profile-trophy.vercel.app/?username=rian1504&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -97,9 +141,15 @@ const rian = {
 ## 📈 Contribution Graph
 
 <div align="center">
-  
-[![Rian's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rian1504&bg_color=0d1117&color=6366f1&line=6366f1&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rian1504&bg_color=0d1117&color=6366f1&line=6366f1&point=ffffff&area=true&hide_border=true" alt="Contribution Graph"/>
+</div>
 
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/rian1504/rian1504/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </div>
 
 ---
@@ -107,11 +157,29 @@ const rian = {
 ## 🤝 Let's Connect!
 
 <div align="center">
+  
+<a href="https://rian1504.site" target="_blank">
+  <img src="https://img.shields.io/badge/🌐_Website-rian1504.site-6366f1?style=for-the-badge&labelColor=0D1117" alt="Website"/>
+</a>
 
-[![Website](https://img.shields.io/badge/Website-rian1504.site-6366f1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rian1504.site)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-rian--abdullah-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rian-abdullah)
-[![Email](https://img.shields.io/badge/Email-rianabdullah1504@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rianabdullah1504@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-rian1504-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rian1504)
+<br/><br/>
+
+<a href="https://linkedin.com/in/rian-abdullah" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://instagram.com/rrian1504_" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+<a href="mailto:rianabdullah1504@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+<a href="https://github.com/rian1504" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/📧_Email-rianabdullah1504@gmail.com-D14836?style=flat-square&labelColor=0D1117" alt="Email Badge"/>
 
 </div>
 
@@ -120,6 +188,8 @@ const rian = {
 <div align="center">
   
 ### 💻 "Code is like humor. When you have to explain it, it's bad." – Cory House
+
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=100&section=footer"/>
 
