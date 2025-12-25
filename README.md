@@ -121,11 +121,18 @@ const rian = {
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rian1504&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
+<a href="https://github.com/rian1504">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rian1504&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats"/>
+</a>
+<a href="https://github.com/rian1504">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rian1504&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" alt="Top Languages"/>
+</a>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rian1504&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
+<br/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=rian1504&theme=tokyonight&hide_border=true&background=0D1117)
+<a href="https://github.com/rian1504">
+  <img src="https://streak-stats.demolab.com?user=rian1504&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+</a>
 
 </div>
 
@@ -135,7 +142,9 @@ const rian = {
 
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=rian1504&theme=discord&no-frame=true&no-bg=true&column=7)
+<a href="https://github.com/rian1504">
+  <img src="https://github-profile-trophy.vercel.app/?username=rian1504&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
+</a>
 
 </div>
 
@@ -143,7 +152,9 @@ const rian = {
 
 ## 📈 Contribution Graph
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=rian1504&bg_color=0d1117&color=6366f1&line=6366f1&point=ffffff&area=true&hide_border=true)
+<a href="https://github.com/rian1504">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rian1504&bg_color=0d1117&color=6366f1&line=6366f1&point=ffffff&area=true&hide_border=true" alt="Contribution Graph"/>
+</a>
 
 ---
 
