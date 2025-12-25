@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Backend+Developer;Laravel+Enthusiast;Flutter+Developer;Building+Scalable+Web+%26+Mobile+Apps)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=rian1504&label=Profile%20views&color=6366f1&style=for-the-badge" alt="Profile Views" />
+![Profile Views](https://komarev.com/ghpvc/?username=rian1504&label=Profile%20views&color=6366f1&style=for-the-badge)
 
 </div>
 
@@ -70,7 +70,8 @@ const rian = {
 
 ## 🚀 Featured Projects
 
-<table align="center">
+<div align="center">
+<table>
   <tr>
     <td align="center" width="50%">
       <h3>🎓 InternFolio</h3>
@@ -112,50 +113,47 @@ const rian = {
     </td>
   </tr>
 </table>
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rian1504&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rian1504&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Most Used Languages" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rian1504&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=rian1504&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rian1504&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=rian1504&theme=tokyonight&hide_border=true&background=0D1117)
+
+</div>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rian1504&theme=discord&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies" />
-</p>
+<div align="center">
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=rian1504&theme=discord&no-frame=true&no-bg=true&column=7)
+
+</div>
 
 ---
 
 ## 📈 Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rian1504&bg_color=0d1117&color=6366f1&line=6366f1&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
-</p>
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=rian1504&bg_color=0d1117&color=6366f1&line=6366f1&point=ffffff&area=true&hide_border=true)
 
 ---
 
 ## 🐍 Watch My Contributions Get Eaten!
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rian1504/rian1504/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rian1504/rian1504/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/rian1504/rian1504/output/github-snake-dark.svg" />
-  </picture>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rian1504/rian1504/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rian1504/rian1504/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/rian1504/rian1504/output/github-snake-dark.svg" />
+</picture>
 
 ---
 
@@ -163,28 +161,14 @@ const rian = {
 
 <div align="center">
 
-<a href="https://rian1504.site" target="_blank">
-  <img src="https://img.shields.io/badge/🌐_Website-rian1504.site-6366f1?style=for-the-badge&labelColor=0D1117" alt="Website"/>
-</a>
+[![Website](https://img.shields.io/badge/🌐_Website-rian1504.site-6366f1?style=for-the-badge&labelColor=0D1117)](https://rian1504.site)
 
-<br/><br/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rian-abdullah)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rrian1504_)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rianabdullah1504@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rian1504)
 
-<a href="https://linkedin.com/in/rian-abdullah" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://instagram.com/rrian1504_" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-<a href="mailto:rianabdullah1504@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
-<a href="https://github.com/rian1504" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/📧_Email-rianabdullah1504@gmail.com-D14836?style=flat-square&labelColor=0D1117" alt="Email Badge"/>
+![Email](https://img.shields.io/badge/📧_Email-rianabdullah1504@gmail.com-D14836?style=flat-square&labelColor=0D1117)
 
 </div>
 
@@ -194,8 +178,6 @@ const rian = {
   
 ### 💻 "Code is like humor. When you have to explain it, it's bad." – Cory House
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=100&section=footer"/>
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=100&section=footer)
 
 </div>
