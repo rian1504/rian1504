@@ -121,12 +121,16 @@ const rian = {
 
 <div align="center">
 
-<a href="https://github.com/rian1504">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rian1504&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats"/>
-</a>
-<a href="https://github.com/rian1504">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rian1504&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" alt="Top Languages"/>
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-rian1504.vercel.app/api?username=rian1504&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true&rank_icon=github" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-rian1504.vercel.app/api?username=rian1504&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
+  <img height="180em" src="https://github-readme-stats-rian1504.vercel.app/api?username=rian1504&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-rian1504.vercel.app/api/top-langs/?username=rian1504&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-rian1504.vercel.app/api/top-langs/?username=rian1504&layout=compact&theme=default&hide_border=true&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats-rian1504.vercel.app/api/top-langs/?username=rian1504&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" alt="Top Languages"/>
+</picture>
 
 <br/>
 
