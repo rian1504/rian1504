@@ -14,7 +14,6 @@
 
 ```javascript
 const rian = {
-  pronouns: "He" | "Him",
   role: "Backend Developer",
   location: "Batam, Indonesia",
   status: ["Student"],
@@ -149,6 +148,16 @@ const rian = {
 ## 🤝 Let's Connect!
 
 <div align="center">
+
+### 💼 Open To
+
+![Freelance](https://img.shields.io/badge/💻_Freelance_Projects-Available-10B981?style=for-the-badge&labelColor=0D1117)
+![Collaboration](https://img.shields.io/badge/🤝_Collaboration-Open-6366f1?style=for-the-badge&labelColor=0D1117)
+![Remote Work](https://img.shields.io/badge/🌍_Remote_Work-Interested-F59E0B?style=for-the-badge&labelColor=0D1117)
+
+> 🚀 I'm always excited to work on interesting projects! Whether you need a backend developer for your startup, want to collaborate on open source, or have a freelance opportunity — feel free to reach out!
+
+---
 
 [![Website](https://img.shields.io/badge/🌐_Website-rian1504.site-6366f1?style=for-the-badge&labelColor=0D1117)](https://rian1504.site)
 
