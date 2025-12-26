@@ -149,8 +149,6 @@ const rian = {
 
 <div align="center">
 
-### 💼 Open To
-
 [![Website](https://img.shields.io/badge/🌐_Website-rian1504.site-6366f1?style=for-the-badge&labelColor=0D1117)](https://rian1504.site)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rian-abdullah)
@@ -161,6 +159,8 @@ const rian = {
 ![Email](https://img.shields.io/badge/📧_Email-rianabdullah1504@gmail.com-D14836?style=flat-square&labelColor=0D1117)
 
 ---
+
+### 💼 Open To
 
 ![Freelance](https://img.shields.io/badge/💻_Freelance_Projects-Available-10B981?style=for-the-badge&labelColor=0D1117)
 ![Collaboration](https://img.shields.io/badge/🤝_Collaboration-Open-6366f1?style=for-the-badge&labelColor=0D1117)
@@ -174,7 +174,7 @@ const rian = {
 
 <div align="center">
   
-### 💻 "Code is like humor. When you have to explain it, it's bad." – Cory House
+### 💻 "Code. Debug. Repeat."
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=100&section=footer)
 
