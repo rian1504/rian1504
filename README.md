@@ -151,14 +151,6 @@ const rian = {
 
 ### 💼 Open To
 
-![Freelance](https://img.shields.io/badge/💻_Freelance_Projects-Available-10B981?style=for-the-badge&labelColor=0D1117)
-![Collaboration](https://img.shields.io/badge/🤝_Collaboration-Open-6366f1?style=for-the-badge&labelColor=0D1117)
-![Remote Work](https://img.shields.io/badge/🌍_Remote_Work-Interested-F59E0B?style=for-the-badge&labelColor=0D1117)
-
-> 🚀 I'm always excited to work on interesting projects! Whether you need a backend developer for your startup, want to collaborate on open source, or have a freelance opportunity — feel free to reach out!
-
----
-
 [![Website](https://img.shields.io/badge/🌐_Website-rian1504.site-6366f1?style=for-the-badge&labelColor=0D1117)](https://rian1504.site)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rian-abdullah)
@@ -167,6 +159,14 @@ const rian = {
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rian1504)
 
 ![Email](https://img.shields.io/badge/📧_Email-rianabdullah1504@gmail.com-D14836?style=flat-square&labelColor=0D1117)
+
+---
+
+![Freelance](https://img.shields.io/badge/💻_Freelance_Projects-Available-10B981?style=for-the-badge&labelColor=0D1117)
+![Collaboration](https://img.shields.io/badge/🤝_Collaboration-Open-6366f1?style=for-the-badge&labelColor=0D1117)
+![Remote Work](https://img.shields.io/badge/🌍_Remote_Work-Interested-F59E0B?style=for-the-badge&labelColor=0D1117)
+
+> 🚀 I'm always excited to work on interesting projects! Whether you need a backend developer for your startup, want to collaborate on open source, or have a freelance opportunity — feel free to reach out!
 
 </div>
 
