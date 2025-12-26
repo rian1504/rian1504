@@ -2,7 +2,7 @@
   
 # Hi there, I'm Rian Abdullah! 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Backend+Developer;Laravel+Enthusiast;Flutter+Developer;Building+Scalable+Web+%26+Mobile+Apps)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Backend+Developer;Laravel+Enthusiast;Building+Scalable+Backend+Web+%26+Apps)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rian1504&label=Profile%20views&color=6366f1&style=for-the-badge)
 
@@ -16,17 +16,17 @@
 const rian = {
   pronouns: "He" | "Him",
   role: "Backend Developer",
-  location: "Indonesia 🇮🇩",
-  status: ["Student", "Freelancer"],
-  currentFocus: "Building robust web & mobile applications",
+  location: "Batam, Indonesia",
+  status: ["Student"],
+  currentFocus: "Building robust backend web applications",
   funFact: "I love playing badminton 🏸 when I'm not coding!",
 };
 ```
 
-- 🎓 Currently a **Student** while also working as a **Freelancer**
+- 🎓 Currently a **Student at Politeknik Negeri Batam**
 - 🔭 I'm passionate about creating **scalable backend systems**
 - 🌱 Always learning and improving my skills
-- 💬 Ask me about **Laravel, PHP, Flutter, API Development, Database Design**
+- 💬 Ask me about **Laravel, PHP, API Development, Database Design**
 - ⚡ Fun fact: When I'm not coding, you'll find me on the badminton court! 🏸
 
 ---
@@ -119,38 +119,12 @@ const rian = {
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-rian1504.vercel.app/api?username=rian1504&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true&rank_icon=github" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-rian1504.vercel.app/api?username=rian1504&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
-  <img height="180em" src="https://github-readme-stats-rian1504.vercel.app/api?username=rian1504&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats"/>
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-rian1504.vercel.app/api/top-langs/?username=rian1504&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-rian1504.vercel.app/api/top-langs/?username=rian1504&layout=compact&theme=default&hide_border=true&langs_count=8" />
-  <img height="180em" src="https://github-readme-stats-rian1504.vercel.app/api/top-langs/?username=rian1504&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" alt="Top Languages"/>
-</picture>
-
-<br/>
-
+<p align="center">
 <a href="https://github.com/rian1504">
-  <img src="https://streak-stats.demolab.com?user=rian1504&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rian1504&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rian1504&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<a href="https://github.com/rian1504">
-  <img src="https://github-profile-trophy.vercel.app/?username=rian1504&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
-</a>
-
-</div>
+</p>
 
 ---
 
